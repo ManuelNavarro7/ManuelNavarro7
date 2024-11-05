@@ -7,7 +7,6 @@
 ✉️  Feel free to reach out to me at <a href="mailto:manuel.navarro.work@gmail.com">manuel.navarro.work@gmail.com</a> or connect with me on LinkedIn.\
 📄  Check out my GitHub projects to see some of my recent work and contributions!\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
